@@ -1,0 +1,5 @@
+Note: applying IUPAC codes based on FORMAT/GT in sample 00284x16
+The fasta sequence does not match the REF allele at DQ181803.1_DENV2:10573:
+   REF .vcf: [G]
+   ALT .vcf: [A]
+   REF .fa : [N]GCTGGAAGGACTAGAGGTTAGAGGAGACCCCCCCGAAACAAAAAACAGCATATTGACGCTGGGAAAGA
